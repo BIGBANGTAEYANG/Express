@@ -1,0 +1,25 @@
+{
+  "name": "web-project",
+  "version": "1.0.0",
+  "description": "A Study project build by express",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "devDependencies": {
+      "express": "4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BIGBANGTAEYANG/Express.git"
+  },
+  "keywords": [
+    "null"
+  ],
+  "author": "wq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BIGBANGTAEYANG/Express/issues"
+  },
+  "homepage": "https://github.com/BIGBANGTAEYANG/Express#readme"
+}
