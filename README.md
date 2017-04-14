@@ -14,14 +14,14 @@
 【4】浏览器输入127.0.0.1:3000,即可访问项目页面;<br>
 【5】如果运行报错，有可能是可能是express-generator和express不匹配造成的;<br>
 4.项目结构解析:
-【1】bin,存放启动项目的脚本文件;
-【2】node_modules, 存放所有的项目依赖库;
-【3】public,静态文件(css,js,img);
-【4】routes,路由文件(MVC中的C,controller);
-【5】views,页面文件(Ejs模板);
-【6】package.json,项目依赖配置及开发者信息;
-【7】app.js,应用核心配置文件;
-5.文件解析:
+【1】bin,存放启动项目的脚本文件;<br>
+【2】node_modules, 存放所有的项目依赖库;<br>
+【3】public,静态文件(css,js,img);<br>
+【4】routes,路由文件(MVC中的C,controller);<br>
+【5】views,页面文件(Ejs模板);<br>
+【6】package.json,项目依赖配置及开发者信息;<br>
+【7】app.js,应用核心配置文件;<br>
+5.文件解析:<br>
 【1】wwww文件:有中文注解备注
 ```javascript
  /**
